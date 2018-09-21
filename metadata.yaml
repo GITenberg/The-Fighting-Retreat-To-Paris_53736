@@ -1,0 +1,25 @@
+_repo: The-Fighting-Retreat-To-Paris_53736
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ingpen, Roger
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '37008'
+    url: http://www.gutenberg.org/2009/agents/37008
+description: ''
+gutenberg_issued: '2016-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53736'
+  lccn: '15003639'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Western Front'
+- GITenberg
+title: The Fighting Retreat To Paris
+url: http://www.gutenberg.org/ebooks/53736
